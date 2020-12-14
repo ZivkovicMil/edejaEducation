@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head></head>
+<body>
+<p><b>Information for last changed salutation!</b></p>
+<table style="width:50%" cellpadding="10" border="1">
+    <tr>
+        <th> ID</th>
+        <th> Log date</th>
+        <th> Category</th>
+        <th> Details</th>
+        <th> Sender Name</th>
+        <th> User Name</th>
+        <th> Application name</th>
+    </tr>
+    <tr>
+        <th th:text="${logId}"> </th>
+        <th th:text="${logDate}"> </th>
+        <th th:text="${logCategory}"> </th>
+        <th th:text="${logDetails}"> </th>
+        <th th:text="${logSenderName}"> </th>
+        <th th:text="${logUserName}"> </th>
+        <th th:text="${logApplicationName}"> </th>
+    </tr>
+</table>
+</body>
+</html>

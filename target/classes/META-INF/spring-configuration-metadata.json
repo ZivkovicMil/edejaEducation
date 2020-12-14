@@ -1,0 +1,1237 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.edeja.edejaEducation.config.AdminConfig",
+      "name": "admin.datasource",
+      "sourceMethod": "dataSourcePropertiesXdpAdmin()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.xa",
+      "sourceMethod": "getXa()",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "com.edeja.edejaEducation.config.BaseConfig",
+      "name": "jpa",
+      "sourceMethod": "jpaProperties()",
+      "type": "java.util.Properties"
+    },
+    {
+      "sourceType": "com.edeja.edejaEducation.config.BaseConfig",
+      "name": "spring.mail",
+      "sourceMethod": "eMailProperties()",
+      "type": "org.springframework.mail.javamail.JavaMailSender"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "admin.datasource.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

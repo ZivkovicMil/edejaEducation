@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+
+    <!--START request and response data logging-->
+    <appender name="requestFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/request.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>
+                %d{yyyy-MM-dd HH:mm:ss} - Request Info: %n%msg%n
+            </Pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>logs/archived/request.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>2048MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+    <logger name="org.springframework.web.filter.CommonsRequestLoggingFilter" level="DEBUG"/>
+    <!--END request and response data logging-->
+
+    <logger name="org.springframework" level="INFO"/>
+    <logger name="com.sendhybrid.sendercockpit" level="DEBUG"/>
+</configuration>

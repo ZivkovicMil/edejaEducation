@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans">
+    <bean class="com.edeja.edejaEducation.helpers.UserPlayList" id="playerReminder">
+        <property name="list">
+            <list>
+                <bean class="com.edeja.edejaEducation.models.UserPlay">
+                    <property name="username" value="bojantest7may@mailtest.com"/>
+                    <property name="timeInSec" value="4"/>
+                    <property name="reminderMode" value="ONETIME"/>
+                    <property name="notificationByType" value="CSV"/>
+                    <property name="counter" value="1"/>
+                    <property name="nameOfCSVFile" value="bojan"/>
+                </bean>
+                <bean class="com.edeja.edejaEducation.models.UserPlay">
+                    <property name="username" value="zivkovicmilutin92@gmail.com"/>
+                    <property name="timeInSec" value="15"/>
+                    <property name="reminderMode" value="ONETIME"/>
+                    <property name="notificationByType" value="CSV"/>
+                    <property name="counter" value="3"/>
+                    <property name="nameOfCSVFile" value="milutin"/>
+                </bean>
+            </list>
+        </property>
+    </bean>
+</beans>
